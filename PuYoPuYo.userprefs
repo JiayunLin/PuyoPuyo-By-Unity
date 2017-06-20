@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PuyoController.cs">
+    <Files>
+      <File FileName="Assets\GameManager.cs" Line="103" Column="15" />
+      <File FileName="Assets\Chain.cs" Line="7" Column="2" />
+      <File FileName="Assets\PuyoCreator.cs" Line="1" Column="1" />
+      <File FileName="Assets\PadController.cs" Line="1" Column="1" />
+      <File FileName="Assets\PuyoController.cs" Line="54" Column="64" />
+      <File FileName="Assets\Puyo.cs" Line="1" Column="1" />
+      <File FileName="Assets\LittlePuyo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
